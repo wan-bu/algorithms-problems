@@ -19,4 +19,4 @@ Operating System replaces one of the existing pages with newly needed page. Diff
 #### Approache 1: 
 >Solution : ***<a href="https://github.com/wan-bu/algorithms-problems/blob/master/LRUCache.java" target="blank">LRU approache 1 file</a>***
 #### Approache 2:
->Solution : ***<a href="https://github.com/wan-bu/algorithms-problems/blob/master/LRUCacheApproache2.java" target="blank">LRU approache 2 file</a>***
+>Solution : ***<a href="https://github.com/wan-bu/algorithms-problems/blob/master/LRUCacheApproach2.java" target="blank">LRU approache 2 file</a>***
