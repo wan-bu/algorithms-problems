@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class LRUCacheApproache2{
+public class LRUCacheApproach2{
 
   public static String LRUCache(String[] strArr) {
       LinkedList<String> cache = new LinkedList();
